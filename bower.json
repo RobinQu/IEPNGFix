@@ -1,0 +1,23 @@
+{
+  "name": "IEPNGFix",
+  "version": "0.0.1",
+  "homepage": "https://github.com/RobinQu/IEPNGFix",
+  "authors": [
+    "RobinQu <robinqu@gmail.com>"
+  ],
+  "description": "Port IEPNGFix for bower",
+  "keywords": [
+    "IE",
+    "png",
+    "htc"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
